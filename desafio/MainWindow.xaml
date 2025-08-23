@@ -6,9 +6,44 @@
         xmlns:local="clr-namespace:desafio"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
-    <Grid>
-        <TextBlock Text="Micro-Ondas" HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="24" Margin="10,10,0,0"/>
-        <Button Margin="641,271,99,131">Potência</Button>
-        <Button Margin="536,271,204,131">Tempo</Button>
-    </Grid>
+    <StackPanel>
+        <Label 
+            x:Name="HeaderMicroondas" 
+            Content="Micro-ondas" 
+            FontWeight="Bold">
+        </Label>
+        <StackPanel 
+            x:Name="Tempo">
+            <TextBlock 
+                x:Name="TextoTempo"
+                Text="Insira o tempo em segundos:">
+            </TextBlock>
+            <TextBox 
+                x:Name="InputTempo"  
+                Width="200px"
+                Margin="10"
+                HorizontalAlignment="Left"
+            ></TextBox>
+        </StackPanel>
+        <StackPanel 
+            x:Name="Potencia">
+            <TextBlock 
+                x:Name="TextoPotencia"
+                Text="Insira a potência:">
+            </TextBlock>
+            <TextBox 
+                x:Name="InputPotencia"  
+                Width="200px"
+                Margin="10"
+                HorizontalAlignment="Left"
+            ></TextBox>
+        </StackPanel>
+        <Button 
+                x:Name="BotaoIniciar" 
+                Content="Iniciar " 
+                Width="100px"
+                Margin="10"
+                HorizontalAlignment="Left"
+                Click="Iniciar"/>
+    </StackPanel>
 </Window>

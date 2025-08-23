@@ -11,20 +11,35 @@
       "RelativeMoniker": "D:0:0:{1A2FB6FC-6396-4C6C-9771-F2D71DF977D7}|desafio.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1A2FB6FC-6396-4C6C-9771-F2D71DF977D7}|desafio.csproj|c:\\users\\kauan\\github\\microondas\\desafio\\bll\\interface\\ipotencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A2FB6FC-6396-4C6C-9771-F2D71DF977D7}|desafio.csproj|solutionrelative:bll\\interface\\ipotencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1A2FB6FC-6396-4C6C-9771-F2D71DF977D7}|desafio.csproj|c:\\users\\kauan\\github\\microondas\\desafio\\bll\\tempo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A2FB6FC-6396-4C6C-9771-F2D71DF977D7}|desafio.csproj|solutionrelative:bll\\tempo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A2FB6FC-6396-4C6C-9771-F2D71DF977D7}|desafio.csproj|c:\\users\\kauan\\github\\microondas\\desafio\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1A2FB6FC-6396-4C6C-9771-F2D71DF977D7}|desafio.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kauan\\AppData\\Local\\Temp\\.vsdbgsrc\\2da896590732a3d63f5c1ed6a6a77160bc94ea8e875dc9e07606d9dfffbc343f\\XamlReader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A2FB6FC-6396-4C6C-9771-F2D71DF977D7}|desafio.csproj|c:\\users\\kauan\\github\\microondas\\desafio\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A2FB6FC-6396-4C6C-9771-F2D71DF977D7}|desafio.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A2FB6FC-6396-4C6C-9771-F2D71DF977D7}|desafio.csproj|c:\\users\\kauan\\github\\microondas\\desafio\\bind\\appmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A2FB6FC-6396-4C6C-9771-F2D71DF977D7}|desafio.csproj|solutionrelative:bind\\appmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1A2FB6FC-6396-4C6C-9771-F2D71DF977D7}|desafio.csproj|c:\\users\\kauan\\github\\microondas\\desafio\\bll\\potencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1A2FB6FC-6396-4C6C-9771-F2D71DF977D7}|desafio.csproj|solutionrelative:bll\\potencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1A2FB6FC-6396-4C6C-9771-F2D71DF977D7}|desafio.csproj|c:\\users\\kauan\\github\\microondas\\desafio\\bll\\tempo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A2FB6FC-6396-4C6C-9771-F2D71DF977D7}|desafio.csproj|solutionrelative:bll\\tempo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1A2FB6FC-6396-4C6C-9771-F2D71DF977D7}|desafio.csproj|c:\\users\\kauan\\github\\microondas\\desafio\\bll\\interface\\itempo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1A2FB6FC-6396-4C6C-9771-F2D71DF977D7}|desafio.csproj|solutionrelative:bll\\interface\\itempo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A2FB6FC-6396-4C6C-9771-F2D71DF977D7}|desafio.csproj|c:\\users\\kauan\\github\\microondas\\desafio\\bll\\interface\\ipotencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A2FB6FC-6396-4C6C-9771-F2D71DF977D7}|desafio.csproj|solutionrelative:bll\\interface\\ipotencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,58 +49,20 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ITempo.cs",
-              "DocumentMoniker": "C:\\Users\\kauan\\GitHub\\microondas\\desafio\\BLL\\Interface\\ITempo.cs",
-              "RelativeDocumentMoniker": "BLL\\Interface\\ITempo.cs",
-              "ToolTip": "C:\\Users\\kauan\\GitHub\\microondas\\desafio\\BLL\\Interface\\ITempo.cs",
-              "RelativeToolTip": "BLL\\Interface\\ITempo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\kauan\\GitHub\\microondas\\desafio\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\kauan\\GitHub\\microondas\\desafio\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAA9wCQAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-23T01:48:24.165Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IPotencia.cs",
-              "DocumentMoniker": "C:\\Users\\kauan\\GitHub\\microondas\\desafio\\BLL\\Interface\\IPotencia.cs",
-              "RelativeDocumentMoniker": "BLL\\Interface\\IPotencia.cs",
-              "ToolTip": "C:\\Users\\kauan\\GitHub\\microondas\\desafio\\BLL\\Interface\\IPotencia.cs",
-              "RelativeToolTip": "BLL\\Interface\\IPotencia.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-23T01:47:58.083Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Potencia.cs",
-              "DocumentMoniker": "C:\\Users\\kauan\\GitHub\\microondas\\desafio\\BLL\\Potencia.cs",
-              "RelativeDocumentMoniker": "BLL\\Potencia.cs",
-              "ToolTip": "C:\\Users\\kauan\\GitHub\\microondas\\desafio\\BLL\\Potencia.cs",
-              "RelativeToolTip": "BLL\\Potencia.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-23T01:47:44.44Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Tempo.cs",
-              "DocumentMoniker": "C:\\Users\\kauan\\GitHub\\microondas\\desafio\\BLL\\Tempo.cs",
-              "RelativeDocumentMoniker": "BLL\\Tempo.cs",
-              "ToolTip": "C:\\Users\\kauan\\GitHub\\microondas\\desafio\\BLL\\Tempo.cs",
-              "RelativeToolTip": "BLL\\Tempo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-23T01:47:30.515Z",
+              "WhenOpened": "2025-08-23T01:24:33.649Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
@@ -98,19 +75,110 @@
               "RelativeToolTip": "MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-08-23T01:24:35.734Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\kauan\\GitHub\\microondas\\desafio\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\kauan\\GitHub\\microondas\\desafio\\MainWindow.xaml.cs",
-              "RelativeToolTip": "MainWindow.xaml.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAEwBQAAAAiAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\kauan\\GitHub\\microondas\\desafio\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\kauan\\GitHub\\microondas\\desafio\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-23T16:32:01.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "XamlReader.cs",
+              "DocumentMoniker": "C:\\Users\\kauan\\AppData\\Local\\Temp\\.vsdbgsrc\\2da896590732a3d63f5c1ed6a6a77160bc94ea8e875dc9e07606d9dfffbc343f\\XamlReader.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\2da896590732a3d63f5c1ed6a6a77160bc94ea8e875dc9e07606d9dfffbc343f\\XamlReader.cs",
+              "ToolTip": "C:\\Users\\kauan\\AppData\\Local\\Temp\\.vsdbgsrc\\2da896590732a3d63f5c1ed6a6a77160bc94ea8e875dc9e07606d9dfffbc343f\\XamlReader.cs [Somente Leitura]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\2da896590732a3d63f5c1ed6a6a77160bc94ea8e875dc9e07606d9dfffbc343f\\XamlReader.cs [Somente Leitura]",
+              "ViewState": "AgIAAOQBAAAAAAAAAAAtwOwBAAACAAAAAQAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-23T01:24:33.649Z",
+              "WhenOpened": "2025-08-23T16:31:15.952Z",
+              "EditorCaption": " [Somente Leitura]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\kauan\\GitHub\\microondas\\desafio\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "C:\\Users\\kauan\\GitHub\\microondas\\desafio\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAQwBcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T16:28:29.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppModule.cs",
+              "DocumentMoniker": "C:\\Users\\kauan\\GitHub\\microondas\\desafio\\Bind\\AppModule.cs",
+              "RelativeDocumentMoniker": "Bind\\AppModule.cs",
+              "ToolTip": "C:\\Users\\kauan\\GitHub\\microondas\\desafio\\Bind\\AppModule.cs",
+              "RelativeToolTip": "Bind\\AppModule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T16:29:41.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IPotencia.cs",
+              "DocumentMoniker": "C:\\Users\\kauan\\GitHub\\microondas\\desafio\\BLL\\Interface\\IPotencia.cs",
+              "RelativeDocumentMoniker": "BLL\\Interface\\IPotencia.cs",
+              "ToolTip": "C:\\Users\\kauan\\GitHub\\microondas\\desafio\\BLL\\Interface\\IPotencia.cs",
+              "RelativeToolTip": "BLL\\Interface\\IPotencia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T16:17:19.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ITempo.cs",
+              "DocumentMoniker": "C:\\Users\\kauan\\GitHub\\microondas\\desafio\\BLL\\Interface\\ITempo.cs",
+              "RelativeDocumentMoniker": "BLL\\Interface\\ITempo.cs",
+              "ToolTip": "C:\\Users\\kauan\\GitHub\\microondas\\desafio\\BLL\\Interface\\ITempo.cs",
+              "RelativeToolTip": "BLL\\Interface\\ITempo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T16:17:18.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Potencia.cs",
+              "DocumentMoniker": "C:\\Users\\kauan\\GitHub\\microondas\\desafio\\BLL\\Potencia.cs",
+              "RelativeDocumentMoniker": "BLL\\Potencia.cs",
+              "ToolTip": "C:\\Users\\kauan\\GitHub\\microondas\\desafio\\BLL\\Potencia.cs",
+              "RelativeToolTip": "BLL\\Potencia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T15:56:57.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Tempo.cs",
+              "DocumentMoniker": "C:\\Users\\kauan\\GitHub\\microondas\\desafio\\BLL\\Tempo.cs",
+              "RelativeDocumentMoniker": "BLL\\Tempo.cs",
+              "ToolTip": "C:\\Users\\kauan\\GitHub\\microondas\\desafio\\BLL\\Tempo.cs",
+              "RelativeToolTip": "BLL\\Tempo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T15:56:55.315Z",
               "EditorCaption": ""
             }
           ]

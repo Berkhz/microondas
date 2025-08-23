@@ -8,5 +8,6 @@ namespace desafio.BLL.Interface
 {
     public interface IPotencia
     {
+        void ValidarPotencia(int potencia);
     }
 }

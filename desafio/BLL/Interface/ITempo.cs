@@ -8,5 +8,6 @@ namespace desafio.BLL.Interface
 {
     public interface ITempo
     {
+        void ValidarTempo(int tempo);
     }
 }

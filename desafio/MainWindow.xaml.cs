@@ -1,4 +1,6 @@
-﻿using System.Text;
+﻿using desafio.BLL.Interface;
+using Ninject;
+using System.Text;
 using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Data;
@@ -16,9 +18,54 @@ namespace desafio
     /// </summary>
     public partial class MainWindow : Window
     {
-        public MainWindow()
+        private readonly IPotencia _potencia;
+        private readonly ITempo _tempo;
+
+        public MainWindow(ITempo tempo, IPotencia potencia)
         {
             InitializeComponent();
+            _tempo = tempo;
+            _potencia = potencia;
+        }
+
+        private void Iniciar(object sender, RoutedEventArgs e)
+        {
+            string tempoString = InputTempo.Text;
+            string potenciaString = InputPotencia.Text;
+
+            Validar(tempoString, potenciaString);
+        }
+
+        private void Validar(string tempoString, string potenciaString)
+        {
+            try
+            {
+                int tempo = 0;
+                int potencia = 0;
+
+                if (string.IsNullOrEmpty(tempoString))
+                    tempo = 30;
+                else
+                    tempo = int.Parse(tempoString);
+
+                if (string.IsNullOrEmpty(potenciaString))
+                    potencia = 10;
+                else
+                    potencia = int.Parse(potenciaString);
+
+                _tempo.ValidarTempo(tempo);
+                _potencia.ValidarPotencia(potencia);
+            }
+            catch (ArgumentOutOfRangeException ex)
+            {
+                MessageBox.Show(ex.ParamName);
+                return;
+            }
+            catch (Exception)
+            {
+                MessageBox.Show("Os valores devem ser numéricos.");
+                return;
+            }
         }
     }
 }
