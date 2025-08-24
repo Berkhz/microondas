@@ -1,5 +1,6 @@
 ﻿using desafio.BLL.Interface;
 using Ninject;
+using System.Diagnostics;
 using System.Text;
 using System.Windows;
 using System.Windows.Controls;
@@ -10,6 +11,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using System.Windows.Threading;
 
 namespace desafio
 {
@@ -32,27 +34,29 @@ namespace desafio
         {
             string tempoString = InputTempo.Text;
             string potenciaString = InputPotencia.Text;
+            int tempo, potencia;
 
-            Validar(tempoString, potenciaString);
+            TratarDados(tempoString, potenciaString, out tempo, out potencia);
+            Validar(tempo, potencia);
         }
 
-        private void Validar(string tempoString, string potenciaString)
+        private static void TratarDados(string tempoString, string potenciaString, out int tempo, out int potencia)
+        {
+            if (string.IsNullOrEmpty(tempoString))
+                tempo = 30;
+            else
+                tempo = int.Parse(tempoString);
+
+            if (string.IsNullOrEmpty(potenciaString))
+                potencia = 10;
+            else
+                potencia = int.Parse(potenciaString);
+        }
+
+        private void Validar(int tempo, int potencia)
         {
             try
             {
-                int tempo = 0;
-                int potencia = 0;
-
-                if (string.IsNullOrEmpty(tempoString))
-                    tempo = 30;
-                else
-                    tempo = int.Parse(tempoString);
-
-                if (string.IsNullOrEmpty(potenciaString))
-                    potencia = 10;
-                else
-                    potencia = int.Parse(potenciaString);
-
                 _tempo.ValidarTempo(tempo);
                 _potencia.ValidarPotencia(potencia);
             }
@@ -66,6 +70,11 @@ namespace desafio
                 MessageBox.Show("Os valores devem ser numéricos.");
                 return;
             }
+        }
+
+        private void PausaCancela(object sender, RoutedEventArgs e)
+        {
+
         }
     }
 }

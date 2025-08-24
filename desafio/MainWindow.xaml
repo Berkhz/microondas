@@ -24,6 +24,13 @@
                 Margin="10"
                 HorizontalAlignment="Left"
             ></TextBox>
+            <Label 
+                x:Name="LabelTempo"
+                Content=""
+                Width="200"
+                Background="Black"
+                Foreground="White"
+                />
         </StackPanel>
         <StackPanel 
             x:Name="Potencia">
@@ -37,13 +44,27 @@
                 Margin="10"
                 HorizontalAlignment="Left"
             ></TextBox>
+            <Label 
+                x:Name="LabelPotencia"
+                Content=""
+                Width="200"
+                Background="Black"
+                Foreground="White"
+                />
         </StackPanel>
         <Button 
                 x:Name="BotaoIniciar" 
-                Content="Iniciar " 
+                Content="Iniciar" 
                 Width="100px"
                 Margin="10"
                 HorizontalAlignment="Left"
                 Click="Iniciar"/>
+        <Button 
+                x:Name="BotaoPausaCancela" 
+                Content="Pausar/Cancelar" 
+                Width="100"
+                Margin="10"
+                HorizontalAlignment="Left"
+                Click="PausaCancela"/>
     </StackPanel>
 </Window>
